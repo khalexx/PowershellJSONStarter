@@ -1,0 +1,30 @@
+{
+	"Script":[
+		{
+			"Command":"Write-Host",
+			"Params":[
+				{
+					"Name":"Object",
+					"Value":"\"Hi man!!!\""
+				},
+				{
+					"Name":"ForegroundColor",
+					"Value":"Yellow"
+				}
+			]
+		},
+		{
+			"Command":"Write-Host",
+			"Params":[
+				{
+					"Name":"Object",
+					"Value":"\"Wazzup?!!\""
+				},
+				{
+					"Name":"ForegroundColor",
+					"Value":"DarkRed"
+				}
+			]
+		}
+	]
+}
